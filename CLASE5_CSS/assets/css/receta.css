@@ -1,0 +1,32 @@
+html {font-family: 'Roboto Condensed', sans-serif;}
+
+*{margin: 0;
+  padding: 0;}
+
+
+body {background-color: aliceblue;}
+
+header { background-color: darkturquoise;
+height: 60px;}
+
+h2 {text-align: center;}
+
+p {text-align: center;} 
+
+h3 {margin: 1rem; text-decoration: underline;}
+
+li {margin: 1rem; font-size: 0.9rem; list-style: none;}
+
+.nav { background-color: rgb(84, 32, 182);
+; color: white ; border-radius: 5px;
+margin: 5px ; padding: 5px; text-decoration: none;
+;font-size: small; display: inline-block; text-align: center;}
+
+footer {background-color: darkturquoise; height: 60px;}
+p { text-align: center; font-size: medium; 
+}
+
+.chana1 {padding: 10px; margin: 10px; border: 2px solid black;}  
+.container {width: 350px;
+margin: 0 auto;}
+
